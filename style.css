@@ -1,0 +1,19 @@
+img{
+    height: 200px;
+    width: 2o0px;
+    border: 5px solid white;
+    padding: 10px;
+    margin-left: 80px;
+}
+body{
+    background-color: aquamarine;
+}
+h1 {
+    margin-left: 130px;
+    color: gold;
+}
+p {
+    margin-left: 350px;
+    margin-top: 130px;
+    color: red;
+}
